@@ -11,8 +11,7 @@ Please make use of as many of the `.md` formatting tools as possible.  At a mini
    1) Numbered lists
       * bulleted lists
           + more lists
-          + more stuff
-          + even more stuff
+         
 
 #### Emphasis
 _Emphasis_  
