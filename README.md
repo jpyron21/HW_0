@@ -1,31 +1,32 @@
-# HW_0
-## Homework 0: Make a README.md about yourself!
-Tell me a little bit about yourself and your interests.  
-Please make use of as many of the `.md` formatting tools as possible.  At a minimum, include:
+## Jaimee's Introduction
 
-#### Multiple Headers
-##### And Header Styles
+#### About Me
+My name is __Jaimee Pyron__ and I am a first year MA Geography student. I am from _Allentown, PA_ originally, but spent the last four years in _Wilmington, NC_.
+
+##### Interests
+My resesarch interests include:
+   * Remote Sensing :earth_africa:
+      * Land Cover Change
+      * Machine Learning
+   * Software Development
+      * UIs/GIS applications
+My personal interests include:
+   1. Reading
+   2. Cooking
+      1. International Dishes
+         + Indian
+      2. Vegetarian Dishes
+   3. Kayaking
+   4. Traveling 
 
 
-#### Lists  
-   1) Numbered lists
-      * bulleted lists
-          + more lists
-         
-
-#### Emphasis
-_Emphasis_  
-__Strong emphasis__   
-
-#### Code 
-In `line` code  
-
-```bash
-blocks of code  
-with multiple lines  
+```python
+x = 0
+while x < 5:
+   x +=1
 ```
-#### [Links to websites](https://amyhessl.faculty.wvu.edu/home)
 
-_Challenge:_ Add an image
----------------------------
-![Amy with saw](./images/amy_sawII.JPG)
+This python program begins with variable `x = 0`
+![](https://github.com/jpyron21/HW_0/blob/master/images/wvu.jpg)
+   
+#### [WVU MA Geography Page](https://www.geography.wvu.edu/graduate-studies-old)
