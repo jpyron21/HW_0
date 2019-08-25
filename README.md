@@ -9,7 +9,8 @@ My resesarch interests include:
       * Land Cover Change
       * Machine Learning
    * Software Development
-      * UIs/GIS applications
+      * UIs/GIS applications  
+
 My personal interests include:
    1. Reading
    2. Cooking
